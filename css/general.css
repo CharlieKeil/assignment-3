@@ -1,0 +1,41 @@
+html {
+  background-color:;
+}
+
+h1 {
+  font-family: 'Anton', sans-serif;
+}
+
+h2 {
+  font-family: 'Anton', sans-serif;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+
+ol {
+  list-style-type:none;
+  padding: 0;
+}
+
+ul {
+  list-style-type: lower-roman;
+}
+
+dt {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+blockquote {
+  font-style: italic;
+  font-family: 'Droid Serif', serif;
+}
+
+cite {
+  font-style: italic;
+  font-size: .75rem
+  font-family: 'Droid Serif', serif;
+}

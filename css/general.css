@@ -20,6 +20,14 @@ ol {
   padding: 0;
 }
 
+a {
+  color: #701b1b;
+}
+
+a:hover {
+  color:red;
+}
+
 ul {
   list-style-type: lower-roman;
 }
@@ -36,6 +44,21 @@ blockquote {
 
 cite {
   font-style: italic;
-  font-size: .75rem
+  font-size: .75rem;
   font-family: 'Droid Serif', serif;
+  margin: 350px
+}
+
+figcaption {
+  font-size: .75rem;
+  font-style: italic;
+}
+
+b {
+  font-weight: normal;
+}
+
+.site {
+  list-style-type: circle;
+  color: #701b1b;
 }

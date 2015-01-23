@@ -1,13 +1,15 @@
 html {
-  background-color:;
+  background-color: #F7F3E8;
 }
 
 h1 {
   font-family: 'Anton', sans-serif;
+  color:#2B3E42;
 }
 
 h2 {
   font-family: 'Anton', sans-serif;
+  color:#2B3E42;
 }
 
 body {
@@ -46,7 +48,15 @@ cite {
   font-style: italic;
   font-size: .75rem;
   font-family: 'Droid Serif', serif;
-  margin: 350px
+  color: #747E80;
+  margin: 350px;
+
+}
+
+span {
+  font-weight:bold;
+  font-size:1.5rem;
+  color:#747E80;
 }
 
 figcaption {
@@ -56,6 +66,7 @@ figcaption {
 
 b {
   font-weight: normal;
+  color: #747E80;
 }
 
 .site {
